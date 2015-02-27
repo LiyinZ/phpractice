@@ -1,0 +1,1 @@
+Trying out to build pagination from scratch with SQL database;
